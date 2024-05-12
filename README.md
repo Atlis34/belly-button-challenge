@@ -13,6 +13,10 @@ I also placed the app.js file in two different spots, just to be safe.  One is i
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
+Application was also deployed to GitHub pages, as requested by the exercise.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 If you have any trouble, or any questions - please don't hesitate to reach out to me at atlis34@yahoo.com
 
 Thank you for reading and grading!
